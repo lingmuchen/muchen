@@ -2,7 +2,7 @@
 int main(){
 	char m;	
 	printf("	欢迎字符判断语句程序\n");
-	printf("请输入字符");
+	printf("请输入字符\n");
 	printf("	");
 	scanf("%c",&m);
 	switch(m){
