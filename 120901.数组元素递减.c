@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 int l,c;
-int m=90;
+int m=91;
 int ling[9][10]={
 	{0},
 	{0}
