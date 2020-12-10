@@ -18,7 +18,7 @@ int main(){
 			{printf("%s\n",f);}
 		else if(strcmp(c,i)==0)
 			{printf("%s\n",g);}
-		else (strcmp(d,i)==0)
+		else
 			{printf("%s\n",h);}
 return 0;
 }
