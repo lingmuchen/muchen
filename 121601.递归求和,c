@@ -1,0 +1,12 @@
+#include<stdio.h>
+int ling(int l)
+{	if (l<=0)
+		{return 0;}
+	else
+		{return l+ling(l-1);}
+}
+void main(){
+	int m;
+	scanf("%d",&m);
+printf("%d",ling(m));
+}
